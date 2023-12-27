@@ -13,19 +13,19 @@
 </br>
 
 <a href="https://github.com/andremion/Bikes">
-  <img alt="Mion's Louvre" src="https://github-readme-stats.vercel.app/api/pin/?username=andremion&repo=Bikes" />
+  <img alt="Mion's Bikes" src="https://github-readme-stats.vercel.app/api/pin/?username=andremion&repo=Bikes" />
 </a>
 <a href="https://github.com/andremion/UI-Motion">
-  <img alt="Mion's UI Motion" src="https://github-readme-stats.vercel.app/api/pin/?username=andremion&repo=UI-Motion" />
+  <img alt="Mion's UI-Motion" src="https://github-readme-stats.vercel.app/api/pin/?username=andremion&repo=UI-Motion" />
 </a>
 <a href="https://github.com/andremion/Android-Animated-Icons">
-  <img alt="Mion's Louvre" src="https://github-readme-stats.vercel.app/api/pin/?username=andremion&repo=Android-Animated-Icons" />
+  <img alt="Mion's Android-Animated-Icons" src="https://github-readme-stats.vercel.app/api/pin/?username=andremion&repo=Android-Animated-Icons" />
 </a>
 <a href="https://github.com/andremion/Villains-and-Heroes">
-  <img alt="Mion's Louvre" src="https://github-readme-stats.vercel.app/api/pin/?username=andremion&repo=Villains-and-Heroes" />
+  <img alt="Mion's Villains-and-Heroes" src="https://github-readme-stats.vercel.app/api/pin/?username=andremion&repo=Villains-and-Heroes" />
 </a>
 <a href="https://github.com/andremion/Hostel">
-  <img alt="Mion's Louvre" src="https://github-readme-stats.vercel.app/api/pin/?username=andremion&repo=Hostel" />
+  <img alt="Mion's Hostel" src="https://github-readme-stats.vercel.app/api/pin/?username=andremion&repo=Hostel" />
 </a>
 
 </br>
