@@ -1,7 +1,3 @@
-### Hi there 👋
-
-</br>
-
 <a href="https://github.com/andremion?tab=repositories&q=&type=source">
   <img alt="Mion's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=andremion&count_private=true&show_icons=true" />
 </a>
@@ -12,20 +8,17 @@
 </br>
 </br>
 
+<a href="https://github.com/andremion/Jobster">
+  <img alt="Mion's Jobster" src="https://github-readme-stats.vercel.app/api/pin/?username=andremion&repo=Jobster" />
+</a>
 <a href="https://github.com/andremion/Bikes">
   <img alt="Mion's Bikes" src="https://github-readme-stats.vercel.app/api/pin/?username=andremion&repo=Bikes" />
 </a>
-<a href="https://github.com/andremion/UI-Motion">
-  <img alt="Mion's UI-Motion" src="https://github-readme-stats.vercel.app/api/pin/?username=andremion&repo=UI-Motion" />
-</a>
-<a href="https://github.com/andremion/Android-Animated-Icons">
-  <img alt="Mion's Android-Animated-Icons" src="https://github-readme-stats.vercel.app/api/pin/?username=andremion&repo=Android-Animated-Icons" />
-</a>
-<a href="https://github.com/andremion/Villains-and-Heroes">
-  <img alt="Mion's Villains-and-Heroes" src="https://github-readme-stats.vercel.app/api/pin/?username=andremion&repo=Villains-and-Heroes" />
-</a>
 <a href="https://github.com/andremion/Hostel">
   <img alt="Mion's Hostel" src="https://github-readme-stats.vercel.app/api/pin/?username=andremion&repo=Hostel" />
+</a>
+<a href="https://github.com/andremion/Movie">
+  <img alt="Mion's Movie" src="https://github-readme-stats.vercel.app/api/pin/?username=andremion&repo=Movie" />
 </a>
 
 </br>
