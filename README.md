@@ -8,6 +8,9 @@
 </br>
 </br>
 
+<a href="https://github.com/andremion/SlidingPuzzle">
+  <img alt="Mion's SlidingPuzzle" src="https://github-readme-stats.vercel.app/api/pin/?username=andremion&repo=SlidingPuzzle" />
+</a>
 <a href="https://github.com/andremion/Jobster">
   <img alt="Mion's Jobster" src="https://github-readme-stats.vercel.app/api/pin/?username=andremion&repo=Jobster" />
 </a>
